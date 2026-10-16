@@ -1,0 +1,20 @@
+# Never commit footage or model weights
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.m4v
+*.mkv
+*.avi
+*.pt
+*.onnx
+anonymized/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store

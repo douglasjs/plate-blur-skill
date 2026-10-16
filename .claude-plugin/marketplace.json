@@ -1,0 +1,14 @@
+{
+  "name": "plate-blur",
+  "description": "Video privacy tools for Claude Code: automatic license-plate blurring.",
+  "owner": {
+    "name": "YOUR_GITHUB_USERNAME"
+  },
+  "plugins": [
+    {
+      "name": "plate-blur",
+      "source": "./",
+      "description": "Automatically blur license plates in dashcam and road-trip videos."
+    }
+  ]
+}

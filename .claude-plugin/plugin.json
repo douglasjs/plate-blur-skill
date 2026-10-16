@@ -1,0 +1,18 @@
+{
+  "name": "plate-blur",
+  "version": "0.1.0",
+  "description": "Automatically blur license plates in dashcam and road-trip videos (YOLO detection + Kalman tracking, flicker-free).",
+  "author": {
+    "name": "YOUR_GITHUB_USERNAME"
+  },
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/plate-blur-skill",
+  "keywords": [
+    "video",
+    "privacy",
+    "license-plate",
+    "blur",
+    "dashcam",
+    "opencv",
+    "yolo"
+  ]
+}

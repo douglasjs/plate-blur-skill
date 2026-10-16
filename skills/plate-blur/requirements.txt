@@ -1,0 +1,4 @@
+# OpenCV 5 removed Haar cascades (used by --detector haar); stay on 4.x.
+opencv-python>=4.8,<5
+numpy
+ultralytics>=8.3
